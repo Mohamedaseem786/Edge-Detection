@@ -29,8 +29,8 @@ Display the filtered image using plot and imshow.
  
 ## Program:
 ```
-Developed by : Kersoan P
-Register No  : 212221230050
+Developed by : Mohamed Aseem P
+Register No  : 212221230063
 ```
 
 ``` Python
